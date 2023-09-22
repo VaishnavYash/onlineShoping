@@ -5,6 +5,7 @@ Leveraged Recycler View to efficiently display products for sale, optimizing the
 Throughout the project, I acquired expertise in securely storing login credentials like email and password and practical skills in app development, Kotlin programming, and UI/UX design.
 
 UI/UX - 
+
 ![Login Page](https://github.com/VaishnavYash/onlineShopping/assets/103493455/3faefd7b-f1d5-4a88-88f8-3a4d8230deb0)
 
 ![Account Info](https://github.com/VaishnavYash/onlineShopping/assets/103493455/430d136d-6444-4e25-b599-78a021c4bd7a)
