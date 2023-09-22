@@ -1,0 +1,61 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1335" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable/background_profile.xml" value="0.2315" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable/button_reg.xml" value="0.1135" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable/drawer_layout.xml" value="0.2345" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable/ic_email_icon.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.102" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable/shopping_cart_green.xml" value="0.1675" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable/shopping_cart_red.xml" value="0.1675" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/activity_dash_board.xml" value="0.16" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/activity_drawer.xml" value="0.2" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/activity_drawer_layout.xml" value="0.152" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/activity_header.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/activity_old_user.xml" value="0.2" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/app_bar_drawer.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/app_bar_main.xml" value="0.22708333333333333" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/content_drawer.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/content_main.xml" value="0.152" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/content_navigation.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/drawer_layout.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_acc_info.xml" value="0.264" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_acc_info_fragment.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_cart_fragment.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_gallery.xml" value="0.2" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_home_fragment.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_sign_out_fragment.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/nav_header_drawer.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/navigation_action.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/navigation_header.xml" value="0.176" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/product_row.xml" value="0.176" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/layout/product_row_cart.xml" value="0.2" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/drawer_activity.xml" value="0.22916666666666666" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/drawer_list.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/drawer_menu.xml" value="0.228125" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/menu.xml" value="0.14722222222222223" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/menu_main.xml" value="0.176" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/menu_mini.xml" value="0.176" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/nav_header.xml" value="0.1" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/navi_menu.xml" value="0.2064814814814815" />
+        <entry key="..\:/ANDROID/majorQuizApp/app/src/main/res/menu/navigation_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#C9EEFF"
+    tools:context=".fragments.CartFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_cart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/idRLMsg"
+        android:background="#C9EEFF" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/idRLMsg"
+        android:layout_gravity = "center_horizontal"
+        android:gravity = "center"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom = "10dp"
+        android:background="#C9EEFF"
+        >
+        <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/placeOrderBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_reg"
+        android:text="Place Order"
+        android:textColor="#FFFFFF" />
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+
